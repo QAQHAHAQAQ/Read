@@ -1,0 +1,5 @@
+edge-tts>=7.0.0
+pywebview>=6.0
+winsdk>=1.0.0b10
+pyperclip>=1.8.2
+pillow>=10.0.0

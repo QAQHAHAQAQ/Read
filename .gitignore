@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.log
+
+# 个人配置，不入库
+settings.json
+
+# 临时截图
+_*.png
+
+# 旧的无界面常驻版，已被图形界面取代
+hotkey.py
+
+# 打包中间产物
+build/
+dist/
+*.spec
